@@ -26,7 +26,7 @@ export default () => {
   // Call searchAPI when
   // Component is first rendered. BADCODE!
   useEffect(()=>{
-    searchApi('pasta')
+    searchApi('pizza')
   },[]);
 
 
